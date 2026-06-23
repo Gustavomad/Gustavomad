@@ -4,10 +4,11 @@ Em transição de carreira para a área de **QA (Quality Assurance)**.
 Estou construindo minha base técnica focada em automação de testes e qualidade de software.
 
 ## 🚀 Foco atual de estudos:
+- Aluno do Programa Tech para Todos - Escola da Nuvem (Em andamento)
 - Lógica de Programação com Python
 - SQL para Bancos de Dados
 - Certificação ISTQB (CTFL)
-- ✅ Noções Básicas de Testes de Software - uTest (2026)
+- Noções Básicas de Testes de Software - uTest (2026)
 
 ## 📫 Como me encontrar:
 - **LinkedIn:** www.linkedin.com/in/gustavo-madeira-38569b412
