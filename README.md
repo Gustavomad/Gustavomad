@@ -7,6 +7,7 @@ Estou construindo minha base técnica focada em automação de testes e qualidad
 - Lógica de Programação com Python
 - SQL para Bancos de Dados
 - Certificação ISTQB (CTFL)
+- - ✅ Noções Básicas de Testes de Software - uTest (2026)
 
 ## 📫 Como me encontrar:
 - **LinkedIn:** www.linkedin.com/in/gustavo-madeira-38569b412
